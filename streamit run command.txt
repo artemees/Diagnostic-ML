@@ -1,0 +1,1 @@
+streamlit run "C:\Users\user\Downloads\collective diagnostic predictive system\saved models\collective diagnostic pred.py"
