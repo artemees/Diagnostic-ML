@@ -220,7 +220,8 @@ for i in enumerate(features):
 
 
     
-![output_11_0](https://user-images.githubusercontent.com/59312765/208314989-fcbad30a-b6f1-4c80-9ba4-336c35f9dc58.png)
+![bs1](https://user-images.githubusercontent.com/59312765/208315151-7d81f76d-358d-4a17-8761-351f6dfa4f60.png)
+
     
 
 
@@ -245,7 +246,7 @@ plt.show()
 
 
     
-![output_13_0](https://user-images.githubusercontent.com/59312765/208315005-8a18b409-960e-4a17-8c0e-95d0a94629c1.png)
+![bs2](https://user-images.githubusercontent.com/59312765/208315241-eb54aa77-b5d9-4099-8be4-29d4bbacc3f4.png)
     
 
 
@@ -264,7 +265,9 @@ plt.show()
 ```
 
 
-![output_17_0](https://user-images.githubusercontent.com/59312765/208315029-45166c5f-9346-4fe4-84bc-82b07ae89cd2.png)
+
+![bs3](https://user-images.githubusercontent.com/59312765/208315273-8711c4fa-d985-463b-966e-9b5bb6af75ed.png)
+
  
 
 
