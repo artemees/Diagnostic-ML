@@ -220,7 +220,7 @@ for i in enumerate(features):
 
 
     
-![png](output_11_0.png)
+![output_11_0](https://user-images.githubusercontent.com/59312765/208314989-fcbad30a-b6f1-4c80-9ba4-336c35f9dc58.png)
     
 
 
@@ -245,7 +245,7 @@ plt.show()
 
 
     
-![png](output_13_0.png)
+![output_13_0](https://user-images.githubusercontent.com/59312765/208315005-8a18b409-960e-4a17-8c0e-95d0a94629c1.png)
     
 
 
@@ -264,9 +264,8 @@ plt.show()
 ```
 
 
-    
-![png](output_17_0.png)
-    
+![output_17_0](https://user-images.githubusercontent.com/59312765/208315029-45166c5f-9346-4fe4-84bc-82b07ae89cd2.png)
+ 
 
 
 ### Data Manipulation, Exploration & Visualization.
