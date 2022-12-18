@@ -1,5 +1,5 @@
-# Diagnostic-ML
-ML classification on Brain stroke, Diabetes mellitus  &amp; Cardiovascular disease.
+# Brain Stroke-ML
+ML classification on Brain stroke.
 
 
 ```python
