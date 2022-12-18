@@ -366,8 +366,8 @@ plt.show()
 ```
 
 
-    
-![png](output_24_0.png)
+![bs4](https://user-images.githubusercontent.com/59312765/208315550-a98be4df-2343-4e00-b8c3-6ef9711e1d19.png)
+![bs5](https://user-images.githubusercontent.com/59312765/208315564-fd34d969-182d-48bb-836f-3e9f819295bb.png)
     
 
 
